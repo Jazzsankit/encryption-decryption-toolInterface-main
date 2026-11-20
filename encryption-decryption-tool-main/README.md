@@ -1,4 +1,4 @@
-# Encryption / Decryption Tool — Internship Project 3
+# Encryption / Decryption Tool —
 
 A Python command-line utility demonstrating secure symmetric encryption and decryption of text and files using Fernet from the `cryptography` package.
 
